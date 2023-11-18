@@ -44,5 +44,5 @@ I then tried to resize my partion but still got an error, until i changed the sy
 
 !["btrfs resize"](./Fedora-Images/btrfs-resize2.PNG "btrfs resize")
 
-
+After resizing my partition
 !["home"](./Fedora-Images/VirtualBox_Fedora_workstation.png "home")
