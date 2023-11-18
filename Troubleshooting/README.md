@@ -36,3 +36,12 @@ I then tried to resize my partion using resize2fs command, but kept on getting a
 On typing lsblk -fs to check for filesystem, I saw that my filelsystem was btfrs
 
 !["filesystem"](./Fedora-Images/lsblk%20--before.PNG "filesystem")
+
+I then tried to resize my partion but still got an error, until i changed the synata as my mount point to be resized. 
+
+!["btrfs resize"](./Fedora-Images/btrfs-resize.PNG "btrfs resize")
+
+!["btrfs resize"](./Fedora-Images/btrfs-resize2.PNG "btrfs resize")
+
+
+!["home"](./Fedora-Images/VirtualBox_Fedora_workstation.png "home")
