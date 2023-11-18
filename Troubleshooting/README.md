@@ -12,5 +12,6 @@ On Your Virtual Box, navigate to your fedora VM whose size needs to be increased
 !["Fedora"](./Fedora-Images/fedora.png "fedora")
 
 
+
 On the files menu, navigate to Tools
-!["navigate"](./Fedora-Images/File-tools-.png ""navigate)
+!["navigate"](./Fedora-Images/File-tools-.png "navigate")
