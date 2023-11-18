@@ -28,3 +28,7 @@ I installed growpart tool to grow my parttion 3
 !["installi growpart"](./Fedora-Images/grow%20part.PNG "growpart")
 
 !["growing the root partion"](./Fedora-Images/grow-part.PNG "growpart")
+
+I then tried to resize my partion using resize2fs command, but kept on getting an error
+
+!["resize2fs"](./Fedora-Images/sudo_resize.PNG "resize")
