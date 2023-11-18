@@ -13,6 +13,7 @@ On Your Virtual Box, navigate to your fedora VM whose size needs to be increased
 
 
 
+
 On the files menu, navigate to Tools -->Vitaul Media Manager
 !["navigate"](./Fedora-Images/File-tools-.png "navigate")
 
