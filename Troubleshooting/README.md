@@ -19,3 +19,8 @@ On the files menu, navigate to Tools -->Vitaul Media Manager
 On the vitual media manager window, I looked for my fedora VM vdi image and increased the disk space from 15G to 45G.  
 
 ![""increasing size](./Fedora-Images/increasing_size.png "increasing size")
+
+I started my VM, and on typing the command df -H to check for disk size, it was still the same
+
+!["df -H"](./Fedora-Images/df%20-%20H%20before.PNG "df -H before")
+
