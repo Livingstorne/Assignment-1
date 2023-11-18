@@ -32,3 +32,7 @@ I installed growpart tool to grow my parttion 3
 I then tried to resize my partion using resize2fs command, but kept on getting an error
 
 !["resize2fs"](./Fedora-Images/sudo_resize.PNG "resize")
+
+On typing lsblk -fs to check for filesystem, I saw that my filelsystem was btfrs
+
+!["filesystem"](./Fedora-Images/lsblk%20--before.PNG "filesystem")
