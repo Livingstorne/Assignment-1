@@ -24,3 +24,7 @@ I started my VM, and on typing the command df -H to check for disk size, it was 
 
 !["df -H"](./Fedora-Images/df%20-%20H%20before.PNG "df -H before")
 
+I installed growpart tool to grow my parttion 3
+!["installi growpart"](./Fedora-Images/grow%20part.PNG "growpart")
+
+!["growing the root partion"](./Fedora-Images/grow-part.PNG "growpart")
